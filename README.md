@@ -22,7 +22,7 @@
   [<img align="center" alt=" icon | moleculer" width="40px" src="https://raw.githubusercontent.com/moleculerjs/branding/master/logo/logo.png" />](https://moleculer.services/)
   [<img align="center" alt=" icon | git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
 
-***
+
 
 
 ### 📫 Connect with me:
@@ -31,7 +31,7 @@
 [<img align="left" alt="Gmail | Carlos Bonomelli" width="30px" src="https://www.flaticon.es/svg/static/icons/svg/732/732200.svg" />](mailto:bonomellicarlos@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 &nbsp;
-***
+
 
 ### 💻 My projects: 
 
