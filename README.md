@@ -10,17 +10,17 @@
 ### ⚙️ Languages and Tools:
 
 
-  [<img align="center" alt=" icon | html" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" />](https://www.w3.org/html/)
-  [<img align="center" alt=" icon | css" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" />](https://www.w3schools.com/css/)
-  [<img align="center" alt=" icon | javascript" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img align="center" alt=" icon | node js" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/es/docs/)
-  [<img align="center" alt=" icon | react" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />](https://es.reactjs.org/)
-  [<img align="center" alt=" icon | redux" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />](https://redux.js.org/)
-  [<img align="center" alt=" icon | boostrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />](https://getbootstrap.com/)
-  [<img align="center" alt=" icon | pstgreSQL" width="40px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org/)
-  [<img align="center" alt=" icon | sequelize" width="40px" src="https://devicon.dev/devicon.git/icons/sequelize/sequelize-original.svg" />](https://sequelize.org/)
+  [<img align="center" alt=" icon | html" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://www.w3.org/html/)
+  [<img align="center" alt=" icon | css" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.w3schools.com/css/)
+  [<img align="center" alt=" icon | javascript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img align="center" alt=" icon | node js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/es/docs/)
+  [<img align="center" alt=" icon | react" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://es.reactjs.org/)
+  [<img align="center" alt=" icon | redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />](https://redux.js.org/)
+  [<img align="center" alt=" icon | boostrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />](https://getbootstrap.com/)
+  [<img align="center" alt=" icon | pstgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />](https://www.postgresql.org/)
+  [<img align="center" alt=" icon | sequelize" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" />](https://sequelize.org/)
   [<img align="center" alt=" icon | moleculer" width="40px" src="https://raw.githubusercontent.com/moleculerjs/branding/master/logo/logo.png" />](https://moleculer.services/)
-  [<img align="center" alt=" icon | git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
+  [<img align="center" alt=" icon | git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://git-scm.com/)
 
 
 ***
