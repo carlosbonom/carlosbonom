@@ -1,7 +1,7 @@
 <h2 align="center">
   Hi there, I'm Carlos! 👋
 </h2>
-<img src="https://user-images.githubusercontent.com/50429469/100793042-553f8980-33fa-11eb-88fb-1eafcae54eb2.gif" alt="Carlos bonomelli git" width="300px" align="right" >
+<img src="https://user-images.githubusercontent.com/50429469/110681590-c12f4c00-81b8-11eb-8c8f-e409a30b238d.gif" alt="Carlos bonomelli git" width="300px" align="right" >
 
 #### I'm a Full Stack Web Developer from Santiago, Chile
 
